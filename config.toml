@@ -6,8 +6,10 @@ resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-pagination.pagerSize = 3                  # this is set low for demonstrating with dummy content. Set to a higher number
 enableRobotsTXT = true
+
+[pagination]
+pagerSize = 3
 
 [languages]
 [languages.en]
