@@ -24,6 +24,7 @@ site_logo = ""
 description = ""
 background_color_class = "bg-black"
 recent_posts_number = 3
+featured_image_dir = "images"
 
 [[params.ananke_socials]]
 name = "linkedin"
