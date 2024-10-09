@@ -6,7 +6,7 @@ description: "Here, you can find information about me!"
 featured_image: "/images/000126080014.jpg"
 ---
 
-{{< figure src="../../static/images/000126080015.jpg" title="Me, during a camping trip at the Capital Reef National Park (2023)" >}}
+{{< figure src="/images/000126080015.jpg" title="Me, during a camping trip at the Capital Reef National Park (2023)" >}}
 
 Hamdi Kerem Küçükengin  
 **Email:** kkucukengin@gmail.com  
