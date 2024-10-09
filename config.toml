@@ -1,5 +1,5 @@
 title = "Hamdi Kerem Kucukengin"
-baseURL = "https://hamdikucukengin.com/"
+baseURL = "https://hamdikucukengin.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
