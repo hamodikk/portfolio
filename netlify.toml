@@ -1,0 +1,6 @@
+[build]
+  publish = "public"  # Directory to publish the build
+  command = "hugo --gc --minify"  # Command to build the site
+
+[context.production.environment]
+  HUGO_VERSION = "0.135.0"  # Specify the Hugo version
